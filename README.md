@@ -1,16 +1,10 @@
 # miniproject_money_tracking
 
-A new Flutter project.
+<img width="125px" src="https://github.com/user-attachments/assets/d602eae4-b60d-4a5e-b3a1-973930617813">
+<img width="125px" src="https://github.com/user-attachments/assets/a3bfd69f-7d74-4242-9b64-0e0b5bf5a63a">
+<img width="125px" src="https://github.com/user-attachments/assets/ee66ac43-1d22-413c-ae3b-1e83f6e9f595">
+<img width="125px" src="https://github.com/user-attachments/assets/6e4aad8b-d180-4eb2-8b44-fcee6521aae0">
+<img width="125px" src="https://github.com/user-attachments/assets/28142a24-6710-4f85-9b0d-2e8b59f2b48d">
+<img width="125px" src="https://github.com/user-attachments/assets/09020813-c031-4c5c-80e0-cd57c85b2993">
+<img width="125px" src="https://github.com/user-attachments/assets/32d0cd9f-d942-4140-89ca-705faf73a48b">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
